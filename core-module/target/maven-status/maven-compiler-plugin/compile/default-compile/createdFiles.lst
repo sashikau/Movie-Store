@@ -1,0 +1,5 @@
+hms/mchoice/core/repository/MovieRepository.class
+hms/mchoice/core/repository/MovieRepositoryMongoImpl.class
+hms/mchoice/core/domain/Movie.class
+hms/mchoice/core/repository/MovieRepositoryImpl.class
+hms/mchoice/core/repository/MovieMapper.class

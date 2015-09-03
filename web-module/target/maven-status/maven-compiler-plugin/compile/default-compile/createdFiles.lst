@@ -1,0 +1,4 @@
+hms/mchoice/web/controller/MovieController.class
+hms/mchoice/web/bean/MovieForm.class
+hms/mchoice/web/service/Mservice.class
+hms/mchoice/web/validator/MovieValidator.class

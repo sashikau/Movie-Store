@@ -1,0 +1,5 @@
+/home/shashika/Assignments/28_08_15/Movie-Store/core-module/src/main/java/hms/mchoice/core/repository/MovieRepository.java
+/home/shashika/Assignments/28_08_15/Movie-Store/core-module/src/main/java/hms/mchoice/core/repository/MovieMapper.java
+/home/shashika/Assignments/28_08_15/Movie-Store/core-module/src/main/java/hms/mchoice/core/domain/Movie.java
+/home/shashika/Assignments/28_08_15/Movie-Store/core-module/src/main/java/hms/mchoice/core/repository/MovieRepositoryImpl.java
+/home/shashika/Assignments/28_08_15/Movie-Store/core-module/src/main/java/hms/mchoice/core/repository/MovieRepositoryMongoImpl.java
